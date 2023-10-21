@@ -1,75 +1,76 @@
-ID_Contaminacion,Anio,N_Estacion,Nombre_Estacion,NO2_Media
-1101,2011,1,Ciutadella,40.0
-1102,2011,2,Eixample,65.0
-1106,2011,6,Gracia,66.0
-1103,2011,3,Poblenou,43.0
-1104,2011,4,Sants,40.0
-1105,2011,5,Parc Vall d'Hebron,33.0
-1201,2012,1,Ciutadella,42.0
-1202,2012,2,Eixample,61.0
-1203,2012,3,Poblenou,42.0
-1204,2012,4,Sants,37.0
-1205,2012,5,Parc Vall d'Hebron,31.0
-1301,2013,1,Ciutadella,35.0
-1302,2013,2,Eixample,56.0
-1306,2013,6,Gracia,54.0
-1303,2013,3,Poblenou,40.0
-1304,2013,4,Sants,33.0
-1307,2013,7,Palau Reial,32.0
-1305,2013,5,Parc Vall d'Hebron,27.0
-1401,2014,1,Ciutadella,37.0
-1402,2014,2,Eixample,52.0
-1406,2014,6,Gracia,52.0
-1403,2014,3,Poblenou,39.0
-1404,2014,4,Sants,32.0
-1407,2014,7,Palau Reial,31.0
-1405,2014,5,Parc Vall d'Hebron,28.0
-1501,2015,1,Ciutadella,42.0
-1502,2015,2,Eixample,56.0
-1506,2015,6,Gracia,54.0
-1503,2015,3,Poblenou,45.0
-1504,2015,4,Sants,36.0
-1507,2015,7,Palau Reial,34.0
-1505,2015,5,Parc Vall d'Hebron,30.0
-1601,2016,1,Ciutadella,38.0
-1602,2016,2,Eixample,52.0
-1606,2016,6,Gracia,49.0
-1603,2016,3,Poblenou,43.0
-1604,2016,4,Sants,32.0
-1607,2016,7,Palau Reial,29.0
-1605,2016,5,Parc Vall d'Hebron,30.0
-1701,2017,1,Ciutadella,38.0
-1702,2017,2,Eixample,59.0
-1706,2017,6,Gracia,52.0
-1703,2017,3,Poblenou,43.0
-1704,2017,4,Sants,36.0
-1707,2017,7,Palau Reial,32.0
-1705,2017,5,Parc Vall d'Hebron,32.0
-1801,2018,1,Ciutadella,35.0
-1802,2018,2,Eixample,54.0
-1806,2018,6,Gracia,46.0
-1803,2018,3,Poblenou,39.0
-1804,2018,4,Sants,33.0
-1807,2018,7,Palau Reial,29.0
-1805,2018,5,Parc Vall d'Hebron,29.0
-1901,2019,1,Ciutadella,32.0
-1902,2019,2,Eixample,50.0
-1906,2019,6,Gracia,44.0
-1903,2019,3,Poblenou,37.0
-1904,2019,4,Sants,31.0
-1907,2019,7,Palau Reial,28.0
-1905,2019,5,Parc Vall d'Hebron,29.0
-2001,2020,1,Ciutadella,24.0
-2002,2020,2,Eixample,35.0
-2006,2020,6,Gracia,32.0
-2003,2020,3,Poblenou,29.0
-2004,2020,4,Sants,24.0
-2007,2020,7,Palau Reial,20.0
-2005,2020,5,Parc Vall d'Hebron,22.0
-2101,2021,1,Ciutadella,25.0
-2102,2021,2,Eixample,38.0
-2106,2021,6,Gracia,31.0
-2103,2021,3,Poblenou,26.0
-2104,2021,4,Sants,22.0
-2107,2021,7,Palau Reial,18.0
-2105,2021,5,Parc Vall d'Hebron,20.0
+ID_Contaminacion;Anio;N_Estacion;Nombre_Estacion;NO2_Media
+1101;2011;1;Ciutadella;40.0
+1102;2011;2;Eixample;65.0
+1106;2011;6;Gracia;66.0
+1103;2011;3;Poblenou;43.0
+1104;2011;4;Sants;40.0
+1105;2011;5;Parc Vall d'Hebron;33.0
+1201;2012;1;Ciutadella;42.0
+1202;2012;2;Eixample;61.0
+1206;2012;6;Gracia;61.0
+1203;2012;3;Poblenou;42.0
+1204;2012;4;Sants;37.0
+1205;2012;5;Parc Vall d'Hebron;31.0
+1301;2013;1;Ciutadella;35.0
+1302;2013;2;Eixample;56.0
+1306;2013;6;Gracia;54.0
+1303;2013;3;Poblenou;40.0
+1304;2013;4;Sants;33.0
+1307;2013;7;Palau Reial;32.0
+1305;2013;5;Parc Vall d'Hebron;27.0
+1401;2014;1;Ciutadella;37.0
+1402;2014;2;Eixample;52.0
+1406;2014;6;Gracia;52.0
+1403;2014;3;Poblenou;39.0
+1404;2014;4;Sants;32.0
+1407;2014;7;Palau Reial;31.0
+1405;2014;5;Parc Vall d'Hebron;28.0
+1501;2015;1;Ciutadella;42.0
+1502;2015;2;Eixample;56.0
+1506;2015;6;Gracia;54.0
+1503;2015;3;Poblenou;45.0
+1504;2015;4;Sants;36.0
+1507;2015;7;Palau Reial;34.0
+1505;2015;5;Parc Vall d'Hebron;30.0
+1601;2016;1;Ciutadella;38.0
+1602;2016;2;Eixample;52.0
+1606;2016;6;Gracia;49.0
+1603;2016;3;Poblenou;43.0
+1604;2016;4;Sants;32.0
+1607;2016;7;Palau Reial;29.0
+1605;2016;5;Parc Vall d'Hebron;30.0
+1701;2017;1;Ciutadella;38.0
+1702;2017;2;Eixample;59.0
+1706;2017;6;Gracia;52.0
+1703;2017;3;Poblenou;43.0
+1704;2017;4;Sants;36.0
+1707;2017;7;Palau Reial;32.0
+1705;2017;5;Parc Vall d'Hebron;32.0
+1801;2018;1;Ciutadella;35.0
+1802;2018;2;Eixample;54.0
+1806;2018;6;Gracia;46.0
+1803;2018;3;Poblenou;39.0
+1804;2018;4;Sants;33.0
+1807;2018;7;Palau Reial;29.0
+1805;2018;5;Parc Vall d'Hebron;29.0
+1901;2019;1;Ciutadella;32.0
+1902;2019;2;Eixample;50.0
+1906;2019;6;Gracia;44.0
+1903;2019;3;Poblenou;37.0
+1904;2019;4;Sants;31.0
+1907;2019;7;Palau Reial;28.0
+1905;2019;5;Parc Vall d'Hebron;29.0
+2001;2020;1;Ciutadella;24.0
+2002;2020;2;Eixample;35.0
+2006;2020;6;Gracia;32.0
+2003;2020;3;Poblenou;29.0
+2004;2020;4;Sants;24.0
+2007;2020;7;Palau Reial;20.0
+2005;2020;5;Parc Vall d'Hebron;22.0
+2101;2021;1;Ciutadella;25.0
+2102;2021;2;Eixample;38.0
+2106;2021;6;Gracia;31.0
+2103;2021;3;Poblenou;26.0
+2104;2021;4;Sants;22.0
+2107;2021;7;Palau Reial;18.0
+2105;2021;5;Parc Vall d'Hebron;20.0

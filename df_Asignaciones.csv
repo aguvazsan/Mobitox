@@ -1,11 +1,11 @@
-N_Distrito,N_Estacion,Nombre_Estacion
-1,1,Ciutadella
-2,2,Eixample
-3,4,Sants
-4,7,Palau Reial
-5,6,Gracia
-6,6,Gracia
-7,5,Parc Vall d'Hebron
-8,5,Parc Vall d'Hebron
-9,3,Poblenou
-10,3,Poblenou
+N_Distrito;N_Estacion;Nombre_Estacion
+1;1;Ciutadella
+2;2;Eixample
+3;4;Sants
+4;7;Palau Reial
+5;6;Gracia
+6;6;Gracia
+7;5;Parc Vall d'Hebron
+8;5;Parc Vall d'Hebron
+9;3;Poblenou
+10;3;Poblenou

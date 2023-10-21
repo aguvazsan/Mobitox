@@ -1,11 +1,11 @@
-N_Distrito,Nombre_Distrito,Superficie_km2,Poblacion_2019,Densidad_hab/km2
-1,Ciudad Vieja,4.11,103429.0,25159.09
-2,Ensanche,7.46,265910.0,35625.67
-3,Sants-Montjuïc,22.68,184091.0,8118.32
-4,Les Corts,6.02,81974.0,13607.11
-5,Sarriá-San Gervasio|,19.91,149260.0,7497.11
-6,Gracia,4.19,121798.0,29082.62
-7,Horta-Guinardó,11.96,171495.0,14342.64
-8,Nou Barris,8.05,170669.0,21198.48
-9,San Andrés,6.59,149821.0,22724.25
-10,San Martín,10.39,238315.0,22943.58
+N_Distrito;Nombre_Distrito;Superficie_km2;Poblacion_2019;Densidad_hab/km2
+1;Ciutat Vella;4.11;103429.0;25159.09
+2;Eixample;7.46;265910.0;35625.67
+3;Sants-Montjuic;22.68;184091.0;8118.32
+4;Les Corts;6.02;81974.0;13607.11
+5;Sarria-Sant Gervasi;19.91;149260.0;7497.11
+6;Gracia;4.19;121798.0;29082.62
+7;Horta-Guinardo;11.96;171495.0;14342.64
+8;Nou Barris;8.05;170669.0;21198.48
+9;Sant Andreu;6.59;149821.0;22724.25
+10;Sant Marti;10.39;238315.0;22943.58
